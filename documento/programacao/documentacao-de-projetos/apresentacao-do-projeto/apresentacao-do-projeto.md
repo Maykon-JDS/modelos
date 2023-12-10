@@ -2,7 +2,7 @@
 # [Título do Projeto]
 
 <!-- Inserir foto de capa do projeto aqui -->
-![Foto de Capa](url_da_imagem)
+![Foto de Capa](assets/imgs/foto-de-capa.png)
 
 <!-- Inserir tags relevantes aqui -->
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](./LICENSE)
